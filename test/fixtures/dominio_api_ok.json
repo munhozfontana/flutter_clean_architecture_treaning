@@ -1,0 +1,24 @@
+{
+    "idDominio": 2,
+    "descDominio": "GENEROS - SEXUALIDADE",
+    "dominioItems": [
+        {
+            "idDominio": 2,
+            "idDominioItem": 2,
+            "descDominioItem": "FEMININO",
+            "siglaDominioItem": "F"
+        },
+        {
+            "idDominio": 2,
+            "idDominioItem": 1,
+            "descDominioItem": "MASCULINO",
+            "siglaDominioItem": "M"
+        },
+        {
+            "idDominio": 2,
+            "idDominioItem": 3,
+            "descDominioItem": "OUTROS",
+            "siglaDominioItem": "O"
+        }
+    ]
+}

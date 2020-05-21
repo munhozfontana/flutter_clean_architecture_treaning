@@ -1,0 +1,7 @@
+{
+    "timestamp" : 1426615606,
+    "exception" : "org.springframework.web.bind.MissingServletRequestParameterException",
+    "status" : 500,
+    "error" : "Bad Request",
+    "message" : "Error no servidor"
+}

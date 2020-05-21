@@ -1,0 +1,31 @@
+{
+    "idDocumento": 1,
+    "pessoa": {
+        "idPessoa": 1,
+        "nome": "1",
+        "dataNascimento": "1",
+        "email": "1",
+        "foto": "1",
+        "idNaturalidade": 1,
+        "idNacionalidade": 1,
+        "idSexo": 1,
+        "idEstadocivil": 1,
+        "idSituacao": 1,
+        "idTipoPessoa": 1,
+        "numCpfCnpj": "1"
+    },
+    "numRg": "1",
+    "orgaoEmissorRg": "1",
+    "dataEmissaoRg": "1",
+    "ufRg": "1",
+    "numCtps": "1",
+    "dataEmissaoCtps": "1",
+    "serieCtps": "1",
+    "ufCtps": "1",
+    "numPisPasep": "1",
+    "numCertificadoReservista": "1",
+    "numTituloEleitor": "1",
+    "secaoEleitor": "1",
+    "zonaEleitor": "1",
+    "dataCadastro": "1"
+}

@@ -1,0 +1,31 @@
+{
+    "idEndereco": 1,
+    "pessoa": {
+        "idPessoa": 1,
+        "nome": "1",
+        "dataNascimento": "1",
+        "email": "1",
+        "foto": "1",
+        "idNaturalidade": 1,
+        "idNacionalidade": 1,
+        "idSexo": 1,
+        "idEstadocivil": 1,
+        "idSituacao": 1,
+        "idTipoPessoa": 1,
+        "numCpfCnpj": "1"
+    },
+    "idTipoRua": 1,
+    "endereco": "1",
+    "numero": "1",
+    "complemento": "1",
+    "bairro": "1",
+    "cep": "1",
+    "municipio": "1",
+    "uf": "1",
+    "pais": "1",
+    "telefoneResidencial": "1",
+    "telefoneComercial": "1",
+    "telefoneCelular": "1",
+    "dataCadastro": "1",
+    "bolPrincipal": 1
+}
